@@ -7,7 +7,7 @@
 
 This is a simple weather app widget built using React, Material UI, JavaScript, and CSS. It leverages the OpenWeather API to provide real-time weather information based on user-entered city or place names.
 
-![Weather App Widget Preview](/path/to/preview/image.png)
+![Weather App Widget Preview](http://localhost:5173/?)
 
 ## Features
 
